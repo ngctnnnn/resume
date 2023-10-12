@@ -28,7 +28,7 @@
 * Teaching Assistant at Faculty of Software Engineering, University of Information Technology, Vietnam National University
 
 ## Awards & scholarships:
-* Best paper award @ SoICT 2022 issued by Vietnam Institute for Advanced Study in Mathematics & Hanoi University of Science and Technology on Dec 2022.
-* VinIF’s Master Training Collaborative Program issued by Vingroup Innovation Foundation (VinIF) on Feb, 2023.
-* Full master scholarship issued by University of Science, Vietnam National University.
-* Summa cum laude undergraduate student majored in Computer Science at Faculty of Computer Science, University of Information Technology, Vietnam National University.
+* **Best paper award** @ SoICT 2022 issued by Vietnam Institute for Advanced Study in Mathematics & Hanoi University of Science and Technology on Dec 2022.
+* **VinIF’s Master Training Collaborative Program scholarship** issued by Vingroup Innovation Foundation (VinIF) on Feb, 2023.
+* **Full master scholarship** issued by University of Science, Vietnam National University.
+* **Summa cum laude undergraduate student** majored in Computer Science at Faculty of Computer Science, University of Information Technology, Vietnam National University.
