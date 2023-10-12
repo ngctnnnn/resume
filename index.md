@@ -10,14 +10,14 @@
 ## How to get in touch with me
 * Email: [ngctnnnn@gmail.com](mailto:ngctnnnn@gmail.com) or [taph01@dfki.de](mailto:taph01@dfki.de)
 * Linkedin: [Tan Ngoc Pham](https://www.linkedin.com/in/ngctnnnn/)
-* Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=-agvSxkAAAAJ)
+* Google Scholar: [Tan Ngoc Pham](https://scholar.google.com/citations?user=-agvSxkAAAAJ)
 
 ## My publications
-* An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow, Informatica 47 (3), 2023.
+* An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow, *Informatica 47 (3), 2023*.
 
-* Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, **Tan Ngoc Pham**, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
+* Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, **Tan Ngoc Pham**, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. *Conference on Neural Information Processing Systems (NeurIPS), 2023*. 
 
-* An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Training-Free Multi-Objective and Many-Objective Evolutionary Neural Architecture Search with Synaptic Flow. In Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT), 2022.
+* An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Training-Free Multi-Objective and Many-Objective Evolutionary Neural Architecture Search with Synaptic Flow. *In Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT), 2022*.
 
 ## Professional Activities
 ### Reviewer for:
