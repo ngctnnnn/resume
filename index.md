@@ -7,7 +7,9 @@
 - Research Assistant, AISIA lab, Faculty of Mathematics & Computer Science, University of Science, Vietnam National University.
 - Research Assistant, Department of Interactive Machine Learning, German Research Center for Artificial Intelligence (DFKI).
 
+## How to get in touch with me
 * Email: [ngctnnnn@gmail.com](mailto:ngctnnnn@gmail.com) or [taph01@dfki.de](mailto:taph01@dfki.de)
+* Linkedin: [Tan Ngoc Pham](https://www.linkedin.com/in/ngctnnnn/)
 * Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=-agvSxkAAAAJ)
 
 ## My publications
