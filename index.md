@@ -28,7 +28,11 @@ Computational medical imaging, Soft computing, Machine Learning
 
 ### Other past experience:
 * Research Assistant at Evolutionary Learning & Optimization lab, University of Information Technology, Vietnam National University.
-* Teaching Assistant at Faculty of Software Engineering, University of Information Technology, Vietnam National University
+* Teaching Assistant at Faculty of Software Engineering, University of Information Technology, Vietnam National University.
+
+### Educational background
+* Master student majored in Artificial Intelligence at Faculty of Information Technology, University of Science, Vietnam National University.
+* Undergraduate student at Faculty of Computer Science, University of Information Technology, Vietnam National University.
 
 ## Awards & scholarships:
 * **Best paper award** @ SoICT 2022 issued by Vietnam Institute for Advanced Study in Mathematics & Hanoi University of Science and Technology on Dec 2022.
