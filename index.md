@@ -27,6 +27,7 @@ Computational medical imaging, Soft computing, Machine Learning
 * R0-FoMo Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models @ NeurIPS 2023.
 
 ### Other past experience:
+* Google Developer Student Clubs Lead at Google.
 * Research Assistant at Evolutionary Learning & Optimization lab, University of Information Technology, Vietnam National University.
 * Teaching Assistant at Faculty of Software Engineering, University of Information Technology, Vietnam National University.
 
