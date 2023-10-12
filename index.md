@@ -12,6 +12,9 @@
 * Linkedin: [Tan Ngoc Pham](https://www.linkedin.com/in/ngctnnnn/)
 * Google Scholar: [Tan Ngoc Pham](https://scholar.google.com/citations?user=-agvSxkAAAAJ)
 
+## My research field of interest
+Computational medical imaging, Soft computing, Machine Learning
+
 ## My publications
 * An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow, *Informatica 47 (3), 2023*.
 
