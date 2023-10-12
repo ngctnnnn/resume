@@ -3,14 +3,12 @@
 
 <img src="./tannp.JPG" alt="drawing" width="400"/>
 
-Senior Master student, Faculty of Information Technology, University of Science, Vietnam National University.
+- Senior Master student, Faculty of Information Technology, University of Science, Vietnam National University.
+- Research Assistant, AISIA lab, Faculty of Mathematics & Computer Science, University of Science, Vietnam National University.
+- Research Assistant, Department of Interactive Machine Learning, German Research Center for Artificial Intelligence (DFKI).
 
-Research Assistant, AISIA lab, Faculty of Mathematics & Computer Science, University of Science, Vietnam National University.
-
-Research Assistant, Department of Interactive Machine Learning, German Research Center for Artificial Intelligence (DFKI).
-
-Email: [ngctnnnn@gmail.com](mailto:ngctnnnn@gmail.com) or [taph01@dfki.de](mailto:taph01@dfki.de)
-Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=-agvSxkAAAAJ)
+* Email: [ngctnnnn@gmail.com](mailto:ngctnnnn@gmail.com) or [taph01@dfki.de](mailto:taph01@dfki.de)
+* Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=-agvSxkAAAAJ)
 
 ## My publications
 * An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow, Informatica 47 (3), 2023.
