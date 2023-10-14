@@ -1,7 +1,10 @@
 
 
+<div align='center'>
 
 <img src="./tannp.JPG" alt="drawing" width="400"/>
+
+</div>
 
 - Senior Master student, Faculty of Information Technology, University of Science, Vietnam National University.
 - Research Assistant, AISIA lab, Faculty of Mathematics & Computer Science, University of Science, Vietnam National University.
