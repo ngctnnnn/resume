@@ -19,6 +19,8 @@
 Computational medical imaging, Soft computing, Machine Learning
 
 ## My publications
+* <ins>Duy Minh Ho Nguyen</ins>, <ins><b>Tan Ngoc Pham</b></ins>, Nghiem Tuong Diep, Nghi Quoc Phan, Quang Pham, Vinh Tong, Binh T. Nguyen, Ngan Hoang Le, Nhat Ho, Pengtao Xie, Daniel Sonntag, Mathias Niepert. On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation. *Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models, Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
 * An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow, *Informatica 47 (3), 2023*.
 
 * Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, **Tan Ngoc Pham**, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. *Conference on Neural Information Processing Systems (NeurIPS), 2023*. 
