@@ -19,6 +19,8 @@
 Computational medical imaging, Soft computing, Machine Learning
 
 ## My publications
+* Ngoc Hoang Luong, Quan Minh Phan, An Vo, **Tan Ngoc Pham**, and Dzung Tri Bui, Lightweight multi-objective evolutionary neural architecture search with low-cost proxy metrics, *Information Sciences, 2023*.
+
 * <ins>Duy Minh Ho Nguyen</ins>, <ins><b>Tan Ngoc Pham</b></ins>, Nghiem Tuong Diep, Nghi Quoc Phan, Quang Pham, Vinh Tong, Binh T. Nguyen, Ngan Hoang Le, Nhat Ho, Pengtao Xie, Daniel Sonntag, Mathias Niepert. On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation. *Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models, Conference on Neural Information Processing Systems (NeurIPS), 2023*
 
 * An Vo, **Tan Ngoc Pham**, Van Bich Nguyen, Ngoc Hoang Luong. Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow, *Informatica 47 (3), 2023*.
